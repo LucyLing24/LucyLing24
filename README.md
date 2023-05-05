@@ -1,4 +1,4 @@
-## Hi there 👋 
+## Hi there 👋🏻 
 I'm Lucy Ling (凌珑), a frontend developer and HCI explorer. 
 - 🪪 **MS Student** at [Tongji University](https://tjdi.tongji.edu.cn/?lang=en), 8/2023. HCI / Interaction design.
 - 🎓  [Soochow University](http://eng.suda.edu.cn/) - B.S. in Computer Science and Technology. **GPA: 3.8/4, rank: top 5%**.
