@@ -3,7 +3,7 @@ I'm Lucy Ling (凌珑), a frontend developer and HCI explorer.
 - 🪪 **MS Student** at [Tongji University](https://tjdi.tongji.edu.cn/?lang=en), 8/2023. HCI / Interaction design.
 - 🎓  [Soochow University](http://eng.suda.edu.cn/) - B.S. in Computer Science and Technology. **GPA: 3.8/4, rank: top 5%**.
 - 🧸 Internship: **[Microsoft](https://www.microsoft.com/)** SDE, 2021 -> **[Microsoft](https://www.microsoft.com/)** SDE, 2022 -> **[ByteDance](https://www.bytedance.com/en/)** FE, 2023
-- 🦾 TypeScript / JavaScript / React / Python / Java / C++ / Unity / Unreal 
+- 🦾 TypeScript / JavaScript / React / Python / Java / C++ / Unity / Unreal / WebGL
 - 📨 Email me at: [lucyling0224@gmail.com](mailto:lucyling0224@gmail.com)
 - 🐾 Feel free to contact me -> WeChat: **lucyling0224** / LinkedIn: **[Lucy Ling](https://www.linkedin.com/in/lucyling24/)** / Zhihu: **[凝浓](https://www.zhihu.com/people/linglong24)**
 
@@ -12,7 +12,6 @@ I'm Lucy Ling (凌珑), a frontend developer and HCI explorer.
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="WebGL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
   <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
