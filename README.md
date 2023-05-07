@@ -1,5 +1,5 @@
 ## Hi there 👋🏻 
-I'm Lucy Ling (凌珑), a frontend developer and HCI explorer. Click [here](http://lucy-ling.com/) to visit my website.
+I'm Lucy Ling (凌珑), a frontend developer and HCI explorer. Click [here](https://lucy-ling.com/) to visit my website.
 - 🪪 **MS Student** at [Tongji University](https://tjdi.tongji.edu.cn/?lang=en), 8/2023. HCI / Interaction design.
 - 🎓  [Soochow University](http://eng.suda.edu.cn/) - B.S. in Computer Science and Technology. **GPA: 3.8/4, rank: top 5%**.
 - 🧸 Internship: **[Microsoft](https://www.microsoft.com/)** SDE, 2021 -> **[Microsoft](https://www.microsoft.com/)** SDE, 2022 -> **[ByteDance](https://www.bytedance.com/en/)** FE, 2023
