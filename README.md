@@ -4,8 +4,8 @@ I'm Lucy Ling (凌珑), a frontend developer and HCI explorer.
 - 🎓  [Soochow University](http://eng.suda.edu.cn/) - B.S. in Computer Science and Technology. **GPA: 3.8/4, rank: top 5%**.
 - 🧸 Internship: **[Microsoft](https://www.microsoft.com/)** SDE, 2021 -> **[Microsoft](https://www.microsoft.com/)** SDE, 2022 -> **[ByteDance](https://www.bytedance.com/en/)** FE, 2023
 - 🦾 TypeScript / JavaScript / React / Python / Java / C++ / Unity / Unreal / WebGL
-- 📨 Email me at -> [lucyling0224@gmail.com](mailto:lucyling0224@gmail.com)
-- 🐾 Find me at -> LinkedIn: **[Lucy Ling](https://www.linkedin.com/in/lucyling24/)** / Zhihu: **[凝浓](https://www.zhihu.com/people/linglong24)**
+- 📨 Email me at: [lucyling0224@gmail.com](mailto:lucyling0224@gmail.com)
+- 🐾 Find me at: LinkedIn: **[Lucy Ling](https://www.linkedin.com/in/lucyling24/)** / Zhihu: **[凝浓](https://www.zhihu.com/people/linglong24)**
 
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
