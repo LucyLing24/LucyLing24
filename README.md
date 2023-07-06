@@ -28,8 +28,9 @@ I'm Lucy Ling (凌珑), a frontend developer and HCI explorer. Click [here](http
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=LucyLing24&layout=compact&line_height=20&theme=dracula&border_radius=20">
 </p>
 
+
 <p align = "center">
-  <img src = "https://github-readme-activity-graph.cyclic.app/graph?username=LucyLing24&theme=cotton-candy&radius=64">
+  <img src = "https://github-readme-activity-graph.vercel.app/graph?username=LucyLing24&theme=cotton-candy&radius=64">
   <br />
   <img src = "https://komarev.com/ghpvc/?username=LucyLing24&label=PROFILE+VIEWS">
 </p>
