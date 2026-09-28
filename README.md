@@ -1,9 +1,9 @@
 ## Hi there 👋🏻 
-I'm Long Ling (凌珑, aka Lucy Ling), a human-centered AI researcher, design engineer and full-stack developer. Click [here](https://long-ling.com/) to visit my website.
+I'm Long Ling (凌珑, aka Lucy Ling), a human-centered AI researcher, design engineer and full-stack developer. Click [here](https://long-ling.com/) to visit my academic website, or [here](https://lucy-ling.com/) for my portfolio.
 - 🪪 **Ph.D. Student** at [Tongji University](https://en.tongji.edu.cn) & [Shanghai Innovation Institute](https://www.sii.edu.cn/), 9/2026, advised by [Prof. Tao Gui](https://guitaowufeng.github.io/) ([Fudan NLP Group](https://nlp.fudan.edu.cn/)). Human-centered AI / Human–AI alignment.
 - 🎓 [Tongji University](https://tjdi.tongji.edu.cn/?lang=en) - Master of Interaction Design. **GPA: 3.91/4, rank: top 5%**.
 - 🎓  [Soochow University](http://eng.suda.edu.cn/) - B.S. in Computer Science and Technology. **GPA: 3.8/4, rank: top 5%**.
-- 🧸 Internship: **[Microsoft](https://www.microsoft.com/)** SDE, 2021 -> **[Microsoft](https://www.microsoft.com/)** SDE, 2022 -> **[ByteDance](https://www.bytedance.com/en/)** FE, 2023 -> **[Ant Group](https://www.antgroup.com/en)** Interaction Designer, 2023 -> **[MSRA](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/)** Research Intern, 2026 -> **[Tencent Hunyuan](https://hunyuan.tencent.com/)** Research Intern, 2026
+- 🧸 Internship: **[Microsoft](https://www.microsoft.com/)** SDE, 2021 -> **[Microsoft](https://www.microsoft.com/)** SDE, 2022 -> **[ByteDance](https://www.bytedance.com/en/)** Software Engineer, 2023 -> **[Ant Group](https://www.antgroup.com/en)** Interaction Designer, 2023 -> **[MSRA](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/)** Research Intern, 2026 -> **[Tencent Hunyuan](https://hunyuan.tencent.com/)** Research Intern, 2026
 - 🛠️ Core builder of **[Huabu](https://github.com/microsoft/Huabu)**, Microsoft's open-source AI-native canvas for human–agent collaboration.
 - 📝 Papers: CSCW '26 (**Honorable Mention** 🏆) / CHI '26 / DIS '26 / C&C '26 / ICCV '25 / CSCW '25 / CHI Play '24
 - 🦾 TypeScript / JavaScript / React / Python / Java / C++ / Unity / Unreal / WebGL
