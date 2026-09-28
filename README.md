@@ -8,7 +8,7 @@ I'm Long Ling (凌珑, aka Lucy Ling), a human-centered AI researcher, design en
 - 📝 Papers: CSCW '26 (**Honorable Mention** 🏆) / CHI '26 / DIS '26 / C&C '26 / ICCV '25 / CSCW '25 / CHI Play '24
 - 🦾 TypeScript / JavaScript / React / Python / Java / C++ / Unity / Unreal / WebGL
 - 📨 Email me at: [lucyling0224@gmail.com](mailto:lucyling0224@gmail.com)
-- 🐾 Find me at: LinkedIn: **[Lucy Ling](https://www.linkedin.com/in/lucyling24/)** / Google Scholar: **[Long Ling](https://scholar.google.com/citations?user=wsRlBO4AAAAJ)** / X: **[@LucyLing24](https://x.com/LucyLing24)** / 小红书: **[凌珑](https://www.xiaohongshu.com/user/profile/5d993e4f0000000001007c11)** / Zhihu: **[凝浓](https://www.zhihu.com/people/linglong24)**
+- 🐾 Find me at: LinkedIn: **[Lucy Ling](https://www.linkedin.com/in/lucyling24/)** / Google Scholar: **[Long Ling](https://scholar.google.com/citations?user=wsRlBO4AAAAJ)** / X: **[@LucyLing24](https://x.com/LucyLing24)** / 小红书: **[凝浓](https://www.xiaohongshu.com/user/profile/5d993e4f0000000001007c11)** / Zhihu: **[凝浓](https://www.zhihu.com/people/linglong24)**
 
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
